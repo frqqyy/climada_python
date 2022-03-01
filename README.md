@@ -35,7 +35,8 @@ conda env create -n climada_env -f env_climada.yml
 conda activate climada_env
 ```
 
-If this was successful, then run:
+### Install the climada package
+Run:
 
 ```shell
 pip install climada
